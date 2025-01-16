@@ -10,7 +10,7 @@ There are multiple levels: levels 0, 1, 2, 3, and 4. On level 0, blocks are gene
 
 (INSERT GAMEPLAY HERE OF DIFFERENT LEVELS)
 
-Clearing rows scores points, and a high-score is to facilate more friendly competition between players.
+Clearing rows scores points, and a high-score feature was added to facilate more friendly competition between players.
 
 (INSERT GAMEPLAY OF HIGH SCORES)
 
